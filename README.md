@@ -33,7 +33,7 @@ make prepare
 make build-contract
 ```
 
-The compiled factory contract will be compiled in *./target/wasm32-unknown-unknown/release/contract.wasm*
+The compiled factory contract will be compiled in *./contract/target/wasm32-unknown-unknown/release/contract.wasm*
 
 ## Deploy the Factory
 
